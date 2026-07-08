@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="336" height="336" viewBox="90 93 336 336" fill="none" role="img" aria-label="7 Minuten">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none" role="img" aria-label="7 Minuten">
   <defs>
-    <linearGradient id="g" x1="170" y1="372" x2="346" y2="150" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#62d6c0"></stop>
-      <stop offset="1" stop-color="#7f68ff"></stop>
+    <linearGradient id="g" x1="170" y1="365" x2="342" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62d6c0" />
+      <stop offset="1" stop-color="#7f68ff" />
     </linearGradient>
   </defs>
-  <g stroke="url(#g)" stroke-width="66" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M170 150 H346 L232 372"></path>
-    <path d="M346 150 V244"></path>
+  <rect width="512" height="512" rx="128" fill="#f5f6fb" />
+  <rect x="72" y="104" width="368" height="304" rx="48" fill="#ffffff" opacity="0.62" />
+  <g stroke="url(#g)" stroke-width="52" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M164 154 H348 L231 364" />
+    <path d="M348 154 V247" />
   </g>
 </svg>

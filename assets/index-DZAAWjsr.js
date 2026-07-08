@@ -160,6 +160,7 @@ Error generating stack: `+e.message+`
     .exercise-head{width:100%}
     .exercise-head span{display:inline-flex;align-items:center;justify-content:center;min-width:34px;height:28px;border-radius:999px;background:var(--surface-2);padding:0 10px;color:var(--muted);font-size:12px;font-family:var(--font-mono)}
     .exercise-figure{width:100%;min-height:88px;display:flex;align-items:center;justify-content:flex-start;object-fit:contain;object-position:left center}
+    :root:not([data-theme="light"]) .exercise-figure{filter:invert(1) brightness(1.7) contrast(.92) opacity(.9)}
     .exercise-card strong{font-size:15px;line-height:1.22;letter-spacing:-.02em}
     .exercise-card small{color:var(--soft);font-size:13px;line-height:1.35}
 
