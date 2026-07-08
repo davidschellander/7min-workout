@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Seitlicher Plank rechts">
+  <path d="M10 54 L54 54"></path>
+  <path d="M17 54 L30 54"></path>
+  <path d="M24 54 L25 41"></path>
+  <path d="M25 41 L40 48 L53 53"></path>
+  <circle cx="20" cy="37" r="6" fill="currentColor" stroke="none"></circle>
+  <path d="M25 41 L35 45"></path>
+</svg>
