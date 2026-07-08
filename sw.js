@@ -1,9 +1,9 @@
-const CACHE = 'workout-v16-cache';
+const CACHE = 'workout-v17-cache';
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './icon.svg',
+  './assets/logo.svg',
   './assets/index-DZAAWjsr.js',
 ];
 
