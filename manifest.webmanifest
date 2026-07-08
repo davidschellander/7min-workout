@@ -1,0 +1,17 @@
+{
+  "name": "Ruhiges 7-Minuten-Workout",
+  "short_name": "7 Minuten",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1120",
+  "theme_color": "#0e1120",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
