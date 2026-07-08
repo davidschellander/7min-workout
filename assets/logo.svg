@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="336" height="336" viewBox="90 93 336 336" fill="none" role="img" aria-label="7 Minuten">
+  <defs>
+    <linearGradient id="g" x1="170" y1="372" x2="346" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62d6c0"></stop>
+      <stop offset="1" stop-color="#7f68ff"></stop>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#g)" stroke-width="66" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 150 H346 L232 372"></path>
+    <path d="M346 150 V244"></path>
+  </g>
+</svg>
