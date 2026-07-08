@@ -1,10 +1,22 @@
-const CACHE = 'workout-v16-cache';
+const CACHE = 'workout-v17-cache';
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
   './icon.svg',
   './assets/index-DZAAWjsr.js',
+  './assets/icons/01-hampelmann.svg',
+  './assets/icons/02-wandsitz.svg',
+  './assets/icons/03-liegestuetze.svg',
+  './assets/icons/04-crunches.svg',
+  './assets/icons/05-step-ups.svg',
+  './assets/icons/06-kniebeugen.svg',
+  './assets/icons/07-trizeps-dips.svg',
+  './assets/icons/08-plank.svg',
+  './assets/icons/09-hochknie.svg',
+  './assets/icons/10-ausfallschritte.svg',
+  './assets/icons/11-liegestuetz-rotation.svg',
+  './assets/icons/12-seitlicher-plank.svg',
 ];
 
 self.addEventListener('install', (event) => {
