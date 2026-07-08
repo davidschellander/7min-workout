@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Trizeps-Dips">
+  <path d="M8 54 L56 54"></path>
+  <path d="M8 30 L24 30"></path>
+  <path d="M10 30 L10 53"></path>
+  <circle cx="34" cy="21" r="6" fill="currentColor" stroke="none"></circle>
+  <path d="M34 27 L33 41"></path>
+  <path d="M34 30 L27 36 L24 29"></path>
+  <path d="M33 41 L47 41 L47 53"></path>
+</svg>
